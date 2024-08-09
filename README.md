@@ -22,8 +22,8 @@ First Linktree basic project
 
 ## 🚀 Tecnologias
 
-PT: Esse projeto foi desenvolvido com as seguintes tecnologias:
-EN: this project has developed whit the following technologies:
+PT: Esse projeto foi desenvolvido com as seguintes tecnologias// 
+ //EN: this project has developed whit the following technologies:
 
 - HTML e CSS
 - JavaScript
@@ -31,12 +31,9 @@ EN: this project has developed whit the following technologies:
 - Figma
 
 ## 💻 Projeto
-The DEVLinks is a links aggregator to use how online card visit
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+The DEVLinks is a links aggregator to use how online card visit// 
+ //O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 you can visuality the layout of project by:
