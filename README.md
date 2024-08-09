@@ -2,7 +2,7 @@
 
 <p align="center">
 First Linktree basic project by gab2505, studing by Rocketseat to do this project..."
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+
 </p>
 
 <p align="center">
