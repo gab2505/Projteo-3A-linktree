@@ -1,7 +1,7 @@
 <h1 align="center"> DevLins project 3A </h1>
 
 <p align="center">
-First Linktree basic project by gab2505, studing by Rocketseat to do this project..."
+First Linktree basic project
 
 </p>
 
@@ -18,9 +18,7 @@ First Linktree basic project by gab2505, studing by Rocketseat to do this projec
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
